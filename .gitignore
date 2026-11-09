@@ -1,0 +1,8 @@
+# Pythonin luomat tiedostot
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Paikallinen tietokanta luodaan dataputkessa.
+data/*.db
